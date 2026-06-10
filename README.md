@@ -45,6 +45,18 @@ A criptografia alemã baseava-se na máquina Enigma, um sistema eletromecânico 
 
 ## 📑 GUIA DE ESTUDOS ELABORADO
 
+**PPT GERADO PARA ESTUDOS:** [Enigma_Decoded.pdf](https://github.com/user-attachments/files/28803928/Enigma_Decoded.pdf)
+<br>
+<br>
+### RESUMO GERAL:
+<br>
+Alan Turing, matemático de Cambridge, revolucionou a ciência ao formalizar o conceito de algoritmo com sua "Máquina Universal". Durante a Segunda Guerra, em Bletchley Park, ele liderou a quebra da cifra alemã Enigma, vital para as comunicações do Eixo. Baseando-se no pioneirismo polonês, Turing projetou a Bombe, um dispositivo eletromecânico para automatizar a descoberta de chaves criptográficas. A máquina utilizava "cribs" e lógica de contradição para descartar quintilhões de combinações em tempo recorde. Gordon Welchman otimizou o processo com o tabuleiro diagonal, reduzindo o tempo de busca de dias para meras horas. Esse esforço gerou a inteligência Ultra, que permitiu aos Aliados antecipar ataques submarinos e táticas terrestres inimigas. Estima-se que o trabalho da equipe tenha encurtado a guerra em até quatro anos, salvando cerca de 14 milhões de vidas. No pós-guerra, Turing desenhou o computador ACE e lançou os fundamentos da Inteligência Artificial com o seu teste homônimo. Apesar de herói, sofreu perseguição estatal por sua sexualidade, recebendo o perdão real póstumo apenas em 2013. Seu legado uniu lógica e engenharia, servindo como o alicerce fundamental da computação moderna.
+<br>
+<br>
+
+### GLOSSÁRIO DE APRENDIZAGEM:
+<br>
+
 
 
 
