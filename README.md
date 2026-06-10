@@ -62,7 +62,7 @@ Alan Turing, matemático de Cambridge, revolucionou a ciência ao formalizar o c
 - Banburismus: Processo estatístico desenvolvido por Turing que utilizava cartões perfurados (Banburies) para identificar a ordem provável dos rotores da Enigma antes de rodar as máquinas Bombe, economizando tempo valioso.
 - Bletchley Park: Sede da Escola de Códigos e Cifras do Governo britânico (GC&CS), onde equipes de matemáticos, analistas e técnicos trabalharam em segredo absoluto para decifrar as comunicações do Eixo.
 - Bomba Criptológica (Polish Bomba): Dispositivo eletromecânico precursor desenvolvido pelo matemático polonês Marian Rejewski, que automatizava a busca por configurações da Enigma com base na repetição de indicadores.
-- Bombe (Turing-Welchman): Máquina eletromecânica britânica que emulava 36 máquinas Enigma simultaneamente para encontrar as chaves diárias através de lógica de exclusão
+- Bombe (Turing-Welchman): Máquina eletromecânica britânica que emulava 36 máquinas Enigma simultaneamente para encontrar as chaves diárias através de lógica de exclusão.
 
 
 
